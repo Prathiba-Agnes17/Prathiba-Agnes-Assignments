@@ -1,0 +1,4 @@
+C:\Users\Prathiba Agnes\OneDrive\Desktop\Console Demos\assignment_2\assignment_2\obj\Debug\net8.0\assignment_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prathiba Agnes\OneDrive\Desktop\Console Demos\assignment_2\assignment_2\obj\Debug\net8.0\assignment_2.AssemblyInfoInputs.cache
+C:\Users\Prathiba Agnes\OneDrive\Desktop\Console Demos\assignment_2\assignment_2\obj\Debug\net8.0\assignment_2.AssemblyInfo.cs
+C:\Users\Prathiba Agnes\OneDrive\Desktop\Console Demos\assignment_2\assignment_2\obj\Debug\net8.0\assignment_2.csproj.CoreCompileInputs.cache
