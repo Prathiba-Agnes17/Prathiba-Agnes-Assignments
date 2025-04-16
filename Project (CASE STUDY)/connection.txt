@@ -1,0 +1,1 @@
+﻿Server=LAPTOP-DMP8DVSO;Database=FinanceManagementDB;Integrated Security=True;TrustServerCertificate=True;
