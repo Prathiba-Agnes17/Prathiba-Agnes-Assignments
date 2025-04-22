@@ -1,1 +1,0 @@
-﻿Server=LAPTOP-DMP8DVSO;Database=InsuranceDB;Integrated Security=True;TrustServerCertificate=True;
